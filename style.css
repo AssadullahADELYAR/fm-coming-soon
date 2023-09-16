@@ -74,11 +74,7 @@ input {
   padding: 17px 30px;
   font-size: 16px;
   width: 100%;
-  background-image: linear-gradient(
-    135deg,
-    hsl(0, 0%, 100%),
-    hsl(0, 100%, 98%)
-  );
+  background: transparent;
 }
 input:focus {
   border: 2px solid var(--Desaturated-Red);
